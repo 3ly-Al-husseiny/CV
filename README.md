@@ -4,6 +4,7 @@
 Cairo, Egypt  
 Email: ali.ahmed.software.engineer@gmail.com  
 Phone: +20 1023211727  
+LinkedIn: https://www.linkedin.com/in/3lawy
 
 ---
 
