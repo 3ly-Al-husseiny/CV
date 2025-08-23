@@ -10,12 +10,13 @@ LinkedIn: https://www.linkedin.com/in/3lawy
 
 ## Education
 
-**Zagazig University**  
+**Zagazig University**     2022 - 2026
 Faculty of Computing and Information Technology – IT Department  
 Bachelor’s Degree in Information Technology  
 - Grade: Very Good  
 - GPA: 3.2  
 - Location: Zagazig, Egypt  
+
 
 ---
 
