@@ -47,7 +47,7 @@ Bachelor’s Degree in Information Technology
 - Utilized Unit of Work and Generic Repository patterns  
 - Designed for scalability and separation of concerns  
 
-**Admin Dashboard**  
+**Dashboard for Company Adminstration**  
 - Created using ASP.NET MVC and Bootstrap  
 - Implemented Unit of Work and Generic Repository  
 - Features include user management, analytics views, and role-based access control  
