@@ -40,7 +40,7 @@ Bachelor’s Degree in Information Technology
 
 ---
 
-## Projects
+## My latest projects
 
 **E-Commerce Web API**  
 - Built using ASP.NET Web API with Onion Architecture and Clean Architecture principles  
