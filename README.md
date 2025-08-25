@@ -60,6 +60,3 @@ Bachelor’s Degree in Information Technology
 - English: Advanced (C1)  
 - French: Basic (b1) 
 
----
-
-This resume is maintained and updated regularly.
