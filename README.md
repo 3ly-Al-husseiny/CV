@@ -62,4 +62,4 @@ Bachelor’s Degree in Information Technology
 
 ---
 
-This resume is maintained and updated regularly. Please refer to t
+This resume is maintained and updated regularly.
