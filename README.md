@@ -58,8 +58,8 @@ Bachelor’s Degree in Information Technology
 
 - Arabic: Fluent  
 - English: Advanced (C1)  
-- French: Basic  
+- French: Basic (b1) 
 
 ---
 
-This resume is maintained and updated regularly. Please refer to this repository for the most recent version.
+This resume is maintained and updated regularly. Please refer to t
