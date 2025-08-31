@@ -42,7 +42,7 @@ Bachelor’s Degree in Information Technology
 
 ## My latest projects
 
-**E-Commerce Web API**  
+**E-Commerce Restful Web API**  
 - Built using ASP.NET Web API with Onion Architecture and Clean Architecture principles  
 - Utilized Unit of Work and Generic Repository patterns  
 - Designed for scalability and separation of concerns  
