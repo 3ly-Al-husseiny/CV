@@ -32,7 +32,7 @@ Bachelor’s Degree in Information Technology
 ## Technical Skills
 
 - **Back-End Development:** C#, ASP.NET MVC, ASP.NET Web API  
-- **Front-End & Web Design:** HTML, CSS, JavaScript, Bootstrap  
+- **Front-End & Web Design:** HTML, CSS, JavaScript, Bootstrap, ES6
 - **Architecture Patterns:** Onion Architecture, MVC, Clean Architecture, Minimal API  
 - **Databases:** SQL Server  
 - **Development Concepts:**  
