@@ -1,6 +1,6 @@
 # Ali Ahmed El-husseiny Ali
 
-**ASP.NET Fullstack web Developer**  
+**Fullstack web Developer (Angular | .NET)**  
 Cairo, Egypt  
 Email: ali.ahmed.software.engineer@gmail.com  
 Phone: +20 1023211727  
