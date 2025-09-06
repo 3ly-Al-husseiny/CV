@@ -14,7 +14,7 @@ LinkedIn: https://www.linkedin.com/in/3lawy
 Faculty of Computing and Information Technology – IT Department  
 Bachelor’s Degree in Information Technology  
 - Grade: Very Good  
-- GPA: 3.2  
+- GPA: 3.2
 - Location: Zagazig, Egypt  
 
 
@@ -56,7 +56,7 @@ Bachelor’s Degree in Information Technology
 
 ## Languages
 
-- Arabic: Fluent  
+- Arabic: Native Speaker
 - English: Advanced (C1)  
 - French: Basic (b1) 
 
